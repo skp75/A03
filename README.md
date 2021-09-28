@@ -19,7 +19,8 @@ Webstom also allows you to create its own HTML file too. By creating a new file,
 -	**Repository**: A place to create projects and store files.
 
 
-Links
+####Links
+
 https://www.jetbrains.com/community/education/#students 
 
 https://git-scm.com/downloads
